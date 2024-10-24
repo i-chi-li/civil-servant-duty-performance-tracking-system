@@ -1,0 +1,3 @@
+/docker/certs/**/*.*
+/docker/filebeat_ingest_data/**/*.*
+/docker/logstash_ingest_data/**/*.*
