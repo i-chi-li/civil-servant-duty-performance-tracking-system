@@ -1,0 +1,8 @@
+server.host: "0.0.0.0"
+server.shutdownTimeout: "5s"
+elasticsearch.hosts: [ "https://es01:9200" ]
+monitoring.ui.container.elasticsearch.enabled: true
+server.maxPayload: 553247624
+savedObjects.maxImportPayloadBytes: 553247624
+persistent:
+  search.max_async_search_response_size: 52428800
